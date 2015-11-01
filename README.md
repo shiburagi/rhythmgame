@@ -1,5 +1,5 @@
 # rhythmgame
-Sample code for develop rhythm game using java language
+Sample code for develop rhythm game using java language.<br>
 This project develop use Eclipse Kepler and JDK 1.7
 
 MainFrame
